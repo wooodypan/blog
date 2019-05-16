@@ -27,3 +27,4 @@
 ||bintray.com
 ||rubygems.org
 ||flutter.dev
+||pythonhosted.org
