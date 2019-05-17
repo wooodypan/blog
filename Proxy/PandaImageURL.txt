@@ -28,3 +28,4 @@
 ||rubygems.org
 ||flutter.dev
 ||pythonhosted.org
+||gitbooks.io
