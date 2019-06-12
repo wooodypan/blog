@@ -1,5 +1,6 @@
 1apple.com
 1ipip.net
+ubuntu.com
 fastlane.tools
 tinypng.com
 github.com
