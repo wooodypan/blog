@@ -4,6 +4,7 @@ ubuntu.com
 fastlane.tools
 tinypng.com
 github.com
+githubusercontent.com
 githubassets.com
 stackoverflow.com
 tampermonkey.net
